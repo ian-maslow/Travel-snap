@@ -1,0 +1,214 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Santorini Sunset",
+      "description": "Golden hour over the whitewashed cliffs of Oia. One of those moments you never forget.",
+      "dateTaken": "June 14, 2023",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800",
+      "author": {
+        "name": "Elena Vasquez",
+        "image": "https://i.pravatar.cc/150?img=1",
+        "channel": "Mediterranean Escapes",
+        "userSince": "2019"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Kyoto Bamboo Grove",
+      "description": "Walking through Arashiyama at dawn before the crowds arrive. Pure stillness.",
+      "dateTaken": "March 3, 2023",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800",
+      "author": {
+        "name": "James Okafor",
+        "image": "https://i.pravatar.cc/150?img=2",
+        "channel": "East Asia Diaries",
+        "userSince": "2020"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Patagonia Peaks",
+      "description": "Torres del Paine at sunrise. Four days of hiking to get this view and worth every step.",
+      "dateTaken": "January 20, 2023",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800",
+      "author": {
+        "name": "Sofia Reyes",
+        "image": "https://i.pravatar.cc/150?img=3",
+        "channel": "South America Wild",
+        "userSince": "2018"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Sahara Dunes",
+      "description": "Watching the sun rise over the Erg Chebbi dunes in Morocco. The silence is unlike anything else.",
+      "dateTaken": "November 8, 2022",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800",
+      "author": {
+        "name": "Youssef Amrani",
+        "image": "https://i.pravatar.cc/150?img=4",
+        "channel": "Desert Wanderer",
+        "userSince": "2021"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Amalfi Coast Road",
+      "description": "Riding the SS163 with the windows down. Every turn reveals something more stunning than the last.",
+      "dateTaken": "July 2, 2023",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1533104816931-20fa691ff6ca?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1533104816931-20fa691ff6ca?w=800",
+      "author": {
+        "name": "Marco Bellini",
+        "image": "https://i.pravatar.cc/150?img=5",
+        "channel": "Italian Roads",
+        "userSince": "2017"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Iceland Waterfall",
+      "description": "Skogafoss on a cloudy afternoon. Stood in the mist for an hour and didn't want to leave.",
+      "dateTaken": "August 19, 2022",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?w=800",
+      "author": {
+        "name": "Sigrid Hansen",
+        "image": "https://i.pravatar.cc/150?img=6",
+        "channel": "Nordic Light",
+        "userSince": "2019"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Bali Rice Terraces",
+      "description": "The Tegallalang terraces just outside Ubud. Greener than anything I had ever seen.",
+      "dateTaken": "February 11, 2023",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
+      "author": {
+        "name": "Ayu Pratiwi",
+        "image": "https://i.pravatar.cc/150?img=7",
+        "channel": "Island Life",
+        "userSince": "2020"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Scottish Highlands",
+      "description": "Glencoe valley in October. The fog rolling in made it feel like another world entirely.",
+      "dateTaken": "October 5, 2022",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "author": {
+        "name": "Callum Fraser",
+        "image": "https://i.pravatar.cc/150?img=8",
+        "channel": "Celtic Trails",
+        "userSince": "2018"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Grand Canyon Rim",
+      "description": "South Rim at golden hour. No photo ever does it justice but I keep trying.",
+      "dateTaken": "April 28, 2023",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?w=800",
+      "author": {
+        "name": "Maya Thornton",
+        "image": "https://i.pravatar.cc/150?img=9",
+        "channel": "American West",
+        "userSince": "2021"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Tokyo at Night",
+      "description": "Shibuya crossing at midnight. The energy here is something you have to experience in person.",
+      "dateTaken": "March 15, 2023",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800",
+      "author": {
+        "name": "James Okafor",
+        "image": "https://i.pravatar.cc/150?img=2",
+        "channel": "East Asia Diaries",
+        "userSince": "2020"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Machu Picchu Dawn",
+      "description": "Got to the Sun Gate before sunrise. The clouds parted just long enough for this shot.",
+      "dateTaken": "September 1, 2022",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=800",
+      "author": {
+        "name": "Sofia Reyes",
+        "image": "https://i.pravatar.cc/150?img=3",
+        "channel": "South America Wild",
+        "userSince": "2018"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Norwegian Fjords",
+      "description": "Kayaking through Nærøyfjord on a still morning. The reflections were mirror perfect.",
+      "dateTaken": "July 22, 2022",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=800",
+      "author": {
+        "name": "Sigrid Hansen",
+        "image": "https://i.pravatar.cc/150?img=6",
+        "channel": "Nordic Light",
+        "userSince": "2019"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Moroccan Medina",
+      "description": "Getting lost in the Fes el-Bali souks. Every alley leads somewhere unexpected.",
+      "dateTaken": "November 12, 2022",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "author": {
+        "name": "Youssef Amrani",
+        "image": "https://i.pravatar.cc/150?img=4",
+        "channel": "Desert Wanderer",
+        "userSince": "2021"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Maldives Overwater",
+      "description": "Waking up to this every morning for a week. The water is actually that color.",
+      "dateTaken": "December 28, 2022",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800",
+      "author": {
+        "name": "Elena Vasquez",
+        "image": "https://i.pravatar.cc/150?img=1",
+        "channel": "Mediterranean Escapes",
+        "userSince": "2019"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Banff Lake Louise",
+      "description": "October in Alberta. The larches were turning gold and the lake was still as glass.",
+      "dateTaken": "October 18, 2022",
+      "thumbnailSrc": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=400",
+      "fullSrc": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800",
+      "author": {
+        "name": "Maya Thornton",
+        "image": "https://i.pravatar.cc/150?img=9",
+        "channel": "American West",
+        "userSince": "2021"
+      }
+    }
+  ]
+}
